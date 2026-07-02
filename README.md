@@ -137,7 +137,7 @@ Step 10 — Users can download fraud prediction results as a CSV file
 - Interactive visualization dashboard
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🔎 Conclusion
-This AI-Powered Financial Fraud Detection System demonstrates how Machine Learning, Anomaly Detection, Clustering, and Explainable AI can be combined to build an intelligent fraud detection solution. The ensemble of Random Forest, LightGBM, Isolation Forest, and K-Means provides accurate fraud prediction while SHAP offers transparent explanations for every prediction. The interactive Streamlit dashboard enables financial analysts to monitor transactions, assess fraud risks, and make informed decisions efficiently.
+- This AI-Powered Financial Fraud Detection System demonstrates how Machine Learning, Anomaly Detection, Clustering, and Explainable AI can be combined to build an intelligent fraud detection solution. The ensemble of Random Forest, LightGBM, Isolation Forest, and K-Means provides accurate fraud prediction while SHAP offers transparent explanations for every prediction. The interactive Streamlit dashboard enables financial analysts to monitor transactions, assess fraud risks, and make informed decisions efficiently.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🚀 How to Run
 
